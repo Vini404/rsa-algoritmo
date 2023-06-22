@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\rsa\Decripta\bin\Debug\net7.0\Decripta.exe
+C:\Users\vinic\Desktop\rsa\Decripta\bin\Debug\net7.0\Decripta.deps.json
+C:\Users\vinic\Desktop\rsa\Decripta\bin\Debug\net7.0\Decripta.runtimeconfig.json
+C:\Users\vinic\Desktop\rsa\Decripta\bin\Debug\net7.0\Decripta.dll
+C:\Users\vinic\Desktop\rsa\Decripta\bin\Debug\net7.0\Decripta.pdb
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.AssemblyInfo.cs
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.dll
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\refint\Decripta.dll
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.pdb
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\Decripta.genruntimeconfig.cache
+C:\Users\vinic\Desktop\rsa\Decripta\obj\Debug\net7.0\ref\Decripta.dll

@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\rsa\Encripta\bin\Debug\net7.0\Encripta.exe
+C:\Users\vinic\Desktop\rsa\Encripta\bin\Debug\net7.0\Encripta.deps.json
+C:\Users\vinic\Desktop\rsa\Encripta\bin\Debug\net7.0\Encripta.runtimeconfig.json
+C:\Users\vinic\Desktop\rsa\Encripta\bin\Debug\net7.0\Encripta.dll
+C:\Users\vinic\Desktop\rsa\Encripta\bin\Debug\net7.0\Encripta.pdb
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.AssemblyInfo.cs
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.dll
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\refint\Encripta.dll
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.pdb
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\Encripta.genruntimeconfig.cache
+C:\Users\vinic\Desktop\rsa\Encripta\obj\Debug\net7.0\ref\Encripta.dll
